@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Cambria:700,400);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 body {
-    font-family: "Cambria", Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 21px;
     color: rgb(48, 48, 48);
